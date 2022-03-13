@@ -1,6 +1,9 @@
 # steps:
-  1. neighbour extract - done
-  2. solve
+  1. neighbour extract
+      * use rectangular split method - done
+      * use contour method - done
+      * use triangular coordinate system 
+  3. solve
 
 ## Solving strategy
 * hypothesis testing
