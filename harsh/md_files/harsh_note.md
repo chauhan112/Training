@@ -17,7 +17,6 @@ Reuse
 2) Search easily
 3) Function
    Minimum inputs should give the required outputs.
-4) 
    * input-->min 
    *      -->same output
 5) Modular programming
