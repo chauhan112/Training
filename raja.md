@@ -7,3 +7,6 @@
     * memory
     * processing speed
   * test-driven development 
+  * group coding
+    * code reuse
+    * code understanding (debugger)
