@@ -16,7 +16,7 @@ Reuse
 1) Example and understanding codes
 2) Search easily
 3) Function
-   Minimum inputs should give the required output.
+   Minimum inputs should give the required outputs.
    * input-->min 
    *      -->same output
 4) Modular programming
