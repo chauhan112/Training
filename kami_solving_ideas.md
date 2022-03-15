@@ -17,5 +17,5 @@
 
 1. Nebor network
     * depth is always less than total number of steps
-2. Max nebor: I think this hypothesis is already contained in the nebor tree. Because with the nebor tree we can be sure the given root has least depth,
-    in other words combine every segments quickly. So whether the root is big or small does not matter as long as it combines all the segment.
+2. Max nebor: I think this hypothesis is already contained in the nebor tree. Because with the nebor tree, we can be sure that the given root has least depth,
+    in other words, the given root combines every segments quickly. So whether the root is big or small does not matter as long as it combines all the segment.
