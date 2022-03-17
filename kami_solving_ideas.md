@@ -13,6 +13,7 @@
      So it the color connects all the objects with same color it must be the minimum step. however the order inwhich it should be done is still not clear yet.
   * same color object common neighbour:- Eg: if a particular object connect all the objects of same color, then it take precedence.
 * make the brute force strategy
+  * find the path of maximum gradient descent
 
 ## Hypothesis test
 
