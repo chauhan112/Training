@@ -1,5 +1,12 @@
+## Tasks History
 
+* deletable prime (return how many ways)
 * Equifax (almost solved)
 * 8 Queen chess board (in progress)
-* Armstrong number (solved)
-* Prime numbers (solved)
+* (solved) Armstrong number 
+* (solved) Prime numbers 
+
+
+## optimize
+* 8 queen problem: make it faster 
+
