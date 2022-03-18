@@ -1,7 +1,7 @@
 ## Tasks History
 
 * deletable prime (return how many ways)
-* Equifax (almost solved)
+* Equimax (almost solved)
 * 8 Queen chess board (in progress)
 * (solved) Armstrong number 
 * (solved) Prime numbers 
