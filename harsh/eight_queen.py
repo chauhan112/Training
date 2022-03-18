@@ -20,17 +20,17 @@ def check(i, j):
 def eight_queens(n):
     if n == 0:
         return True
-    for i in range(0, N):
-        for j in range(0, N):
-            if (not (check(i, j))) and (board[i][j] != 1):
-                board[i][j] = 1
+    for j in range(0, N):
+        for k in range(0, N):
+            if (not (check(j, k))) and (board[j][k] != 1):
+                board[j][k] = 1
                 if eight_queens(n - 1):    # if true
                     return True
-                board[i][j] = 0
+                board[j][k] = 0
     return False
 
 
 eight_queens(N)
 
-for i in board:
-    print(i)  # prints out rows one by one
+for r in board:
+    print(r)  # prints out rows one by one
