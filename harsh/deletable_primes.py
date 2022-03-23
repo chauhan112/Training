@@ -14,7 +14,14 @@ def deletable_prime(n):
            arr.append(a)
 
          b = len(arr)
-         for i in arr:
+        sum = 0
+        arr.remove()
+         for i in range(b,0):
+             sum += arr[b]*10
+
+         sum += arr[0]
+
+
              
 
 
