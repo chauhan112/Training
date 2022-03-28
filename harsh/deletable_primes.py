@@ -6,28 +6,24 @@ def prime_number_check(n):  # function for prime numbers
         return True  # if not divisible with any number return True therefore it is prime number.
 
 def deletable_prime(n):
-    if prime_number_check(n):       # First it should be checked if it is prime or not prime
-        arr  = []
-        while(n<=9):
-           a =  n%10
-           n = (n-a)/10
-           arr.append(a)
+    digit_holder = []
+    copy_n = n
+    if prime_number_check(n):
+        return
+    while n < 1:       # First it should be checked if it is prime or not prime
+        a = n % 10
+        digit_holder.append(a)
+        n = (n-a) % 10
 
-         b = len(arr)
-        sum = 0
-        arr.remove()
-         for i in range(b,0):
-             sum += arr[b]*10
-
-         sum += arr[0]
-
-
-             
+    for i in digit_holder:
+        digit_holder.remove(i)
+        if
 
 
 
-
-
-
-def number_of_ways(n):
+def com_number(a):
+    b = len(a)
+    num = 0
+    while :
+        sum  = a[i]*10
 
