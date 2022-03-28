@@ -24,4 +24,19 @@ Reuse
 Lost
   * is_prime
 
-Library 
+Library
+
+Dubbing 
+Never copy and paste codes
+
+Software designing
+i ) changes -> reasons
+ii) changes -> dependent functions / classes change
+
+high  cohesion , loose cohesion  
+
+
+Interface 
+
+
+
