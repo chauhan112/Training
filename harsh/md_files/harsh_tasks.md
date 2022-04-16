@@ -12,10 +12,17 @@
 5. 8 Queen chess board (in progress)
     * Solve under one seconds
     * profiler check
+4. Sudoko 
+
+
+
+
+
+
+
+
+## Solved
 7. (solved) Armstrong number 
 8. (solved) Prime numbers 
 
-
-## optimize
-* 8 queen problem: make it faster 
 
