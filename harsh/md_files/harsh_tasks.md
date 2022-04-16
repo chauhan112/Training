@@ -10,8 +10,10 @@
     * return only one result
     * check speed of algorithms(what is the maximum size algorithm can run)
 5. 8 Queen chess board (in progress)
-6. (solved) Armstrong number 
-7. (solved) Prime numbers 
+    * Solve under one seconds
+    * profiler check
+7. (solved) Armstrong number 
+8. (solved) Prime numbers 
 
 
 ## optimize
