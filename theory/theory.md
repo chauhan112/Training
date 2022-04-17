@@ -10,5 +10,7 @@ tools:
    * code log
       * code run
       * library
-   * search library
-   * search files
+   * search
+      * library
+      * text files
+      * run code
