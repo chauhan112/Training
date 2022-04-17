@@ -6,3 +6,9 @@
          * time 
          * space (memory)
 
+tools:
+   * code log
+      * code run
+      * library
+   * search library
+   * search files
