@@ -13,6 +13,7 @@
     * Solve under one seconds
     * profiler check
 4. Sudoko 
+5. Create Workspace folders by creating function(automate) in python
 
 
 
