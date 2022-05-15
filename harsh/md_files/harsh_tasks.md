@@ -1,5 +1,5 @@
 ## Tasks History
-3. Equimax (almost solved)
+1. Equimax (almost solved)
     * test with size 20, 
     * calculate equal size(fix eq_sp)
     * return only one result
